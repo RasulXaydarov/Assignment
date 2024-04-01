@@ -1,1 +1,1 @@
-Visit the live previe at https://rasulxaydarov.github.io/Assignment/
+Visit the live preview at https://rasulxaydarov.github.io/Assignment/
